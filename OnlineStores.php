@@ -3,7 +3,7 @@
 Plugin Name: Online Stores (by BTE)
 Plugin URI: http://www.blogtrafficexchange.com/online-stores
 Description: Add your stores online to your content from the BTE online store newtork.  Membership is a privledge, dont abuse it. <a href="options-general.php?page=BTE_OS_admin.php">Configuration options are here.</a>
-Version: 1.2.1
+Version: 1.2.2
 Author: Blog Traffic Exchange
 Author URI: http://www.blogtrafficexchange.com/
 License: GPL
