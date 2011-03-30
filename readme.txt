@@ -3,7 +3,7 @@ Contributors: Blog Traffic Exchange (http://www.blogtrafficexchange.com)
 Tags: admin, plugin, SEO, posts, links, administration, blog, traffic, visitors
 Requires at least: 2.5
 Tested up to: 3.1
-Stable tag: 1.2.2
+Stable tag: 1.2.3
 
 Online stores adds related online stores to the bottom of your blog posts.
 
